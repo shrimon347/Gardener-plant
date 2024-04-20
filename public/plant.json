@@ -1,0 +1,85 @@
+[
+    {
+      "id": 1,
+      "category": "Low-Maintanece",
+      "image": ["https://i.ibb.co/CzrZWHV/lm1.jpg", "https://i.ibb.co/H4xyCVg/lm2.jpg", "https://i.ibb.co/RH6jM4c/lm3.jpg"],
+      "plant_name": "Monstera Deliciosa",
+      "plant_details": "Unique, beautiful, and easy care? Say no more. The Easy Peasy Collection offers three gorgeous and structurally appealing plants with little maintenance in terms of care. The Ponytail Palm stands tall with its playful, curled leaves atop a sturdy trunk. The Sansevieria Hahnii has speckled variegation with its mix of greens. The Sansevieria Laurentii Superba adds that balanced touch of color with its bright yellow edges.The Ponytail Palm is a member of the Agave family, native to the southeastern desert of Mexico. The two Sansevieria varieties originate from Africa. These three plants can all handle a range of lighting conditions, from low to full sun. They appreciate average to low household humidity, and minimal watering. This trio is perfect for the busy plant parent who still wants a bit of green in their home.",
+      "Additional_Resources" : "https://bloomscape.com/plant-care-guide/sansevieria/",
+      "price" : "$20"
+    },
+    {
+      "id": 2,
+      "category": "Pet-Friendly",
+      "image": ["https://i.ibb.co/jG48S1w/palnt1.jpg", "https://i.ibb.co/CQrvQgt/plant2.jpg", "https://i.ibb.co/nQQks25/plant3.jpg"],
+      "plant_name": "Kimberly Queen Fern, Australian Sword Fern",
+      "plant_details": "Known for its compact shape and easy care needs, the Kimberly Queen Fern is an unlikely popular favorite compared to its more well-known cousins, the Boston Fern and Dallas Fern. With kelly green fronds that don’t shed like other fern varieties, the Kimberly Queen is ideal for hanging baskets and plant hangers. This makes this fern an ideal choice for plant parents searching for low-maintenance plants to soften classic lines and complement mid-century decor.Native to Australia, Kimberly Queen Ferns thrive in most homes as they are more resilient and tolerant to heat, drought, and direct sun than most ferns. This adaptable fern looks just as lovely (and will be quite happy) on your balcony during the summer as it does in your dining room during the winter.This fern will enjoy regular misting and warmer temperatures and even filters the air of pollutants and toxins.",
+      "Additional_Resources" : "https://bloomscape.com/plant-care-guide/fern/",
+      "price" : "$20"
+    },
+    {
+      "id": 3,
+      "category": "Cacti & Succulents",
+      "image": ["https://i.ibb.co/xHHVR7D/c.jpg", "https://i.ibb.co/SB0Dnt9/c2.jpg", "https://i.ibb.co/Lv6G3FW/c3.jpg"],
+      "plant_name": "Fiddle Leaf Fig",
+      "plant_details": "The much sought-after Sansevieria Masoniana gets its common name “Whale Fin Sansevieria” from its unique broad-leaf. Like most Sansevierias, the Whale Fin is a slow grower, but its leaves can get much larger than its relatives.Native to the African Congo, the Whale Fin Sansevieria is drought-tolerant making it the perfect plant for those who tend to forget a strict watering schedule. It can also tolerate a wide variety of lighting conditions from low to indirect bright light.",
+      "Additional_Resources" : "https://bloomscape.com/plant-care-guide/fern/",
+      "price" : "$20"
+    },
+    {
+      "id": 4,
+      "category": "Gifts",
+      "image": ["https://i.ibb.co/WygCvPg/g1.jpg", "https://i.ibb.co/TRv06Zk/g2.jpg", "https://i.ibb.co/Hz8DCQ0/g3.jpg"],
+      "plant_name": "Pothos",
+      "plant_details": "With the Ficus Tineke you get a dramatic look without the fuss. Flourishing in bright, indirect light and slightly moist soil, this plant thrives effortlessly. You can bid farewell to watering worries, as this low-maintenance gem is remarkably drought-tolerant, meaning you can get away with a missed watering here or there. We prefer placing this plant near a window where it can get some soft morning light but avoid the afternoon’s harsher rays as too much direct sunlight can scorch its colorful leaves. Keep in mind, pet owners, that the Ficus Tineke, like its rubber tree relatives, is not safe for furry companions. Although its leaves alone create a compelling statement, with dedicated care and time, your Ficus Tineke can gracefully grow to a remarkable height of up to 10 feet.",
+      "Additional_Resources" : "https://bloomscape.com/plant-care-guide/fern/",
+      "price" : "$20"
+    },
+    {
+      "id": 5,
+      "category": "Indoor Plants",
+      "image": ["https://i.ibb.co/TLSPPGQ/in1.jpg", "https://i.ibb.co/BsmcWQ8/in2.jpg", "https://i.ibb.co/Trbx2kh/in3.jpg"],
+      "plant_name": "Spider Plant",
+      "plant_details": "The Colorful Collection is sure to boost your mood with the bright pops of red, pink, and yellow. The Red Anthurium has bold heart-shaped flowers surrounded by large green leaves. The Bromeliad Summer sports a cheery magenta flower with long, thin leaves. Last but not least, the Yellow Bromeliad boasts a sunny yellow flower from the center of its light green foliage. These plants are easy to care for and are sure to brighten up your home.  This trio of plants prefers bright indirect light. The better the light, the longer their flowers can last, and it will encourage the growth of new flowers and bromeliad pups in the future. The Anthurium prefers its soil to dry halfway between watering, while the two Bromeliads like to fully dry out. The center cup of the Bromeliad Yellow should be kept halfway full. Keep the gorgeous leaves of this trio clean by dusting regularly.",
+      "Additional_Resources" : "https://bloomscape.com/plant-care-guide/fern/",
+      "price" : "$20"
+    },
+    {
+        "id": 6,
+        "category": "Gifts",
+        "image": ["https://i.ibb.co/WygCvPg/g1.jpg", "https://i.ibb.co/TRv06Zk/g2.jpg", "https://i.ibb.co/Hz8DCQ0/g3.jpg"],
+        "plant_name": "Pothos",
+        "plant_details": "With the Ficus Tineke you get a dramatic look without the fuss. Flourishing in bright, indirect light and slightly moist soil, this plant thrives effortlessly. You can bid farewell to watering worries, as this low-maintenance gem is remarkably drought-tolerant, meaning you can get away with a missed watering here or there. We prefer placing this plant near a window where it can get some soft morning light but avoid the afternoon’s harsher rays as too much direct sunlight can scorch its colorful leaves. Keep in mind, pet owners, that the Ficus Tineke, like its rubber tree relatives, is not safe for furry companions. Although its leaves alone create a compelling statement, with dedicated care and time, your Ficus Tineke can gracefully grow to a remarkable height of up to 10 feet.",
+        "Additional_Resources" : "https://bloomscape.com/plant-care-guide/fern/",
+        "price" : "$20"
+      },
+      {
+        "id": 7,
+        "category": "Indoor Plants",
+        "image": ["https://i.ibb.co/TLSPPGQ/in1.jpg", "https://i.ibb.co/BsmcWQ8/in2.jpg", "https://i.ibb.co/Trbx2kh/in3.jpg"],
+        "plant_name": "Spider Plant",
+        "plant_details": "The Colorful Collection is sure to boost your mood with the bright pops of red, pink, and yellow. The Red Anthurium has bold heart-shaped flowers surrounded by large green leaves. The Bromeliad Summer sports a cheery magenta flower with long, thin leaves. Last but not least, the Yellow Bromeliad boasts a sunny yellow flower from the center of its light green foliage. These plants are easy to care for and are sure to brighten up your home.  This trio of plants prefers bright indirect light. The better the light, the longer their flowers can last, and it will encourage the growth of new flowers and bromeliad pups in the future. The Anthurium prefers its soil to dry halfway between watering, while the two Bromeliads like to fully dry out. The center cup of the Bromeliad Yellow should be kept halfway full. Keep the gorgeous leaves of this trio clean by dusting regularly.",
+        "Additional_Resources" : "https://bloomscape.com/plant-care-guide/fern/",
+        "price" : "$20"
+      },
+      {
+        "id": 8,
+        "category": "Low-Maintanece",
+        "image": ["https://i.ibb.co/CzrZWHV/lm1.jpg", "https://i.ibb.co/H4xyCVg/lm2.jpg", "https://i.ibb.co/RH6jM4c/lm3.jpg"],
+        "plant_name": "Monstera Deliciosa",
+        "plant_details": "Unique, beautiful, and easy care? Say no more. The Easy Peasy Collection offers three gorgeous and structurally appealing plants with little maintenance in terms of care. The Ponytail Palm stands tall with its playful, curled leaves atop a sturdy trunk. The Sansevieria Hahnii has speckled variegation with its mix of greens. The Sansevieria Laurentii Superba adds that balanced touch of color with its bright yellow edges.The Ponytail Palm is a member of the Agave family, native to the southeastern desert of Mexico. The two Sansevieria varieties originate from Africa. These three plants can all handle a range of lighting conditions, from low to full sun. They appreciate average to low household humidity, and minimal watering. This trio is perfect for the busy plant parent who still wants a bit of green in their home.",
+        "Additional_Resources" : "https://bloomscape.com/plant-care-guide/sansevieria/",
+        "price" : "$20"
+      },
+      {
+        "id": 9,
+        "category": "Pet-Friendly",
+        "image": ["https://i.ibb.co/jG48S1w/palnt1.jpg", "https://i.ibb.co/CQrvQgt/plant2.jpg", "https://i.ibb.co/nQQks25/plant3.jpg"],
+        "plant_name": "Kimberly Queen Fern, Australian Sword Fern",
+        "plant_details": "Known for its compact shape and easy care needs, the Kimberly Queen Fern is an unlikely popular favorite compared to its more well-known cousins, the Boston Fern and Dallas Fern. With kelly green fronds that don’t shed like other fern varieties, the Kimberly Queen is ideal for hanging baskets and plant hangers. This makes this fern an ideal choice for plant parents searching for low-maintenance plants to soften classic lines and complement mid-century decor.Native to Australia, Kimberly Queen Ferns thrive in most homes as they are more resilient and tolerant to heat, drought, and direct sun than most ferns. This adaptable fern looks just as lovely (and will be quite happy) on your balcony during the summer as it does in your dining room during the winter.This fern will enjoy regular misting and warmer temperatures and even filters the air of pollutants and toxins.",
+        "Additional_Resources" : "https://bloomscape.com/plant-care-guide/fern/",
+        "price" : "$20"
+      }
+    
+  ]
+  

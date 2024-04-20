@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "logo": "https://i.ibb.co/CzrZWHV/lm1.jpg",
+      "category_name": "Low-Maintanece"
+    },
+    {
+      "id": 2,
+      "logo": "https://i.ibb.co/nQQks25/plant3.jpg",
+      "category_name": "Pet-Friendly"
+    },
+    {
+      "id": 3,
+      "logo": "https://i.ibb.co/xHHVR7D/c.jpg",
+      "category_name": "Cacti & Succulents"
+    },
+    {
+      "id": 4,
+      "logo": "https://i.ibb.co/WygCvPg/g1.jpg",
+      "category_name": "Gifts"
+    },
+    {
+        "id": 5,
+        "logo": "https://i.ibb.co/BsmcWQ8/in2.jpg",
+        "category_name": "Indoor Plant"
+      }
+  ]
